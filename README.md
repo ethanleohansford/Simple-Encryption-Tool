@@ -57,7 +57,8 @@ A simple encryption tool implemented in Python that uses the `cryptography` libr
 ## Limitations
 
 - This tool is a basic implementation and is intended for educational purposes. For production use, consider additional security measures.
-Contributing
+
+## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests for enhancements.
 
